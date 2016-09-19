@@ -79,5 +79,42 @@ Impact of Globalization on Europe and Asia’s degrees of financial and commerci
 
 Identification of absolute and comparative advantages, patterns of trade and gains from trade. 
 
+###2015			
+*Portuguese Housing Market - European Commission*
+**Nova Economics Club; Coordinator: Prof. Susana Peralta (Nova SBE)**
+
+Assessment of Country Specific Recommendations 2015 for Portuguese Housing Market. Benchmark of best practices in European housing rental markets which could be applied in the Portuguese one. 
+
+###2015			
+*Econometrics and Labour Economics Research Project*
+**Econometrics (Nova SBE)**
+
+Impact of Tourism on unemployment rates in Portugal and Spain.
+
+##Professional Experience
+
+2015 – 2016		Researcher at Nova Economics Club
+Participated in two research projects about the Portuguese rental housing and labour markets in collaboration with the European Commission and under coordination of Portuguese Professors.
+
+###2012 – 2016		
+*Mathematics Tutor*
+
+Guide and improve students’ academic performance in Mathematics 
+* Approval Rate: 100%
+
+###2015      		
+*Market Research Consultant*
+**Uniplaces**
+			
+Lead the expansion research project of Uniplaces’ business in 14 cities
+
+*Research about market conditions 
+*Gather information about the cities
+*Contact possible partners
+
+2014       		Summer Intern
+			Unicre – Instituição Financeira de Crédito S.A. 
+			Managed chargeback complaints, retrieval requests and card cancelling.
+
 
 
