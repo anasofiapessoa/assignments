@@ -40,8 +40,22 @@ Final GPA 17,33/20 (top 10% of the class)
 
 BeNova Scholarship for 2014/2015 and 2015/2016
 
-2015 			BSc Economics – Exchange Program
-			Corvinus University of Budapest, Hungary
+###2015 			
+
+**BSc Economics – Exchange Program**
+	
+*Corvinus University of Budapest, Hungary*
+
 Relevant courses: Public Economics and Finance (19/20), Game Theory (19/20), International Macroeconomics (19/20).
+
 Final GPA 19/20
+
+###2010 - 2013	
+
+**Scientific and Humanistic course in Socioeconomics**					
+
+*Escola Secundária do Restelo, Portugal*
+
+Final GPA 18/20 – Merit and Excellence Prize
+
 
