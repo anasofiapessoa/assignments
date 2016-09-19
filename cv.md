@@ -13,7 +13,7 @@ Curriculum vitae
 
 **Date of Birth:**	21-11-1995
 
-**[LinkedIn]** (https://pt.linkedin.com/in/sofia-pessoa)
+[**LinkedIn**] (https://pt.linkedin.com/in/sofia-pessoa)
 
 
 ##Education
