@@ -30,7 +30,7 @@ Expected graduation date – June 2017
 
 ###2013 - 2016		  
 
-**BSc Economics **
+**BSc Economics**
                
 *Nova School of Business and Economics, Portugal*
                 
@@ -57,5 +57,27 @@ Final GPA 19/20
 *Escola Secundária do Restelo, Portugal*
 
 Final GPA 18/20 – Merit and Excellence Prize
+
+
+##Relevant Projects
+
+###2016			
+*Portuguese Labour Market – European Commission*
+**Nova Economics Club; Coordinator: Pedro Martins (QMUL)**
+
+Gathering information about collective agreements and measuring the effect of a new policy on unemployment rate. 
+
+###2016			
+*Policy oriented Research Project *
+**European Economy Seminar (Nova SBE)**
+
+Impact of Globalization on Europe and Asia’s degrees of financial and commercial openness and economic performance. 
+
+##2016			
+*Research Project based on Mihaela-Carmen et al. (2014).*
+**International Trade – Ricardian Model (Nova SBE)**
+
+Identification of absolute and comparative advantages, patterns of trade and gains from trade. 
+
 
 
