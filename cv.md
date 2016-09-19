@@ -75,7 +75,7 @@ Gathering information about collective agreements and measuring the effect of a 
 
 Impact of Globalization on Europe and Asia’s degrees of financial and commercial openness and economic performance. 
 
-##2016			
+###2016			
 **Research Project based on Mihaela-Carmen et al. (2014).**
 
 *International Trade – Ricardian Model (Nova SBE)*
@@ -175,7 +175,7 @@ Greet and help freshmen students in cooperation with Students Development Office
 
 ###Computer skills
 
-*^*Microsoft Office:** Proficient [Microsoft Excel 2013 Specialist certification by Certiport - A Pearson VUE Business]
+**Microsoft Office:** Proficient [Microsoft Excel 2013 Specialist certification by Certiport - A Pearson VUE Business]
 
 **Stata:** Intermediate
 
