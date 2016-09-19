@@ -108,13 +108,17 @@ Guide and improve students’ academic performance in Mathematics
 			
 Lead the expansion research project of Uniplaces’ business in 14 cities
 
-*Research about market conditions 
-*Gather information about the cities
-*Contact possible partners
+* Research about market conditions 
 
-2014       		Summer Intern
-			Unicre – Instituição Financeira de Crédito S.A. 
-			Managed chargeback complaints, retrieval requests and card cancelling.
+* Gather information about the cities
+
+* Contact possible partners
+
+###2014       		
+*Summer Intern*
+**Unicre – Instituição Financeira de Crédito S.A.** 
+
+Managed chargeback complaints, retrieval requests and card cancelling.
 
 
 
